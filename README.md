@@ -16,7 +16,6 @@ Esta es una simulación simple basada en Java de un Campeonato de Fórmula 1. Pe
 ### `CarF1` (Coche F1)
 - Representa un coche de Fórmula 1.
 - Almacena el modelo del coche, la velocidad máxima y el piloto asignado al coche.
-- Métodos: No es necesario para esta simulación.
 
 ### `Race` (Carrera)
 - Representa una carrera de Fórmula 1.
@@ -29,6 +28,7 @@ Esta es una simulación simple basada en Java de un Campeonato de Fórmula 1. Pe
 - Métodos: `addRace(Race race)`, `addPilot(Pilot pilot)`, `startChampionship()`, `saveRanking()`, `savePilots()`, `saveCars()`.
 
 ## Archivos Generados
-- **pilotos.txt**: Contiene la lista de pilotos y sus puntos totales.
-- **coches.txt**: Contiene la lista de coches disponibles en el campeonato.
+- **pilots.txt**: Contiene la lista de pilotos y sus puntos totales.
+- **circuits.txt**: Contiene la lista de pilotos y sus puntos totales.
+- **cars.txt**: Contiene la lista de coches disponibles en el campeonato.
 - **ranking.txt**: Contiene el ranking final de los pilotos al finalizar el campeonato.
