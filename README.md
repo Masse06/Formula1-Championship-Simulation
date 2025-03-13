@@ -8,7 +8,7 @@ Esta es una simulación simple basada en Java de un Campeonato de Fórmula 1. Pe
 - Guarda la información de los pilotos, los coches y el ranking final en archivos de texto (`pilotos.txt`, `coches.txt`, `ranking.txt`).
 
 ## Clases Principales
-### `Pilot` (Piloto)
+### `Pilot` (Pilot)
 - Representa a un piloto de Fórmula 1.
 - Almacena el nombre del piloto, su país, el número de carreras en las que ha participado y los puntos acumulados.
 - Métodos: `race()`, `addPoints(int points)`.

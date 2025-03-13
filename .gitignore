@@ -1,0 +1,35 @@
+# Ignore compiled class files
+*.class
+
+# Ignore Maven or Gradle build folders
+/target/
+/build/
+
+# Ignore IDE project files
+.idea/
+/.vscode/
+/*.iml
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore the generated text files for ranking, cars, pilots
+*.txt
+
+# Ignore IntelliJ specific files
+/.idea/
+
+# Ignore Eclipse specific files
+.project
+.classpath
+
+# Ignore generated files from NetBeans
+nbproject/private/
+
+# Ignore other files you might not want to track
+*.swp
+
